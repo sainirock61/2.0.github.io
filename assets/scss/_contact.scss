@@ -179,3 +179,27 @@
     outline: 0;
 }
 
+}
+.title-forme{
+	font-size: 28px;
+    margin-bottom: 20px;
+}
+.contact-item{
+	position: relative;
+	text-align: center;
+	i{
+	    width: 70px;
+	    height: 70px;
+	    display: inline-block;
+	    line-height: 70px;
+	    font-size: 24px;
+	    text-align: center;
+	    margin-bottom: 30px;
+	    background: #2d2d2d;
+	    color: #fff;
+	    border-radius: 4px;
+	    -webkit-transition: .3s all;
+	    -o-transition: .3s all;
+	    transition: .3s all;
+	}
+
